@@ -4,6 +4,7 @@ Predicting the probability of diabetes diagnosis using synthetic health and life
 
 ## 🔗 Competition Links
 - **Competition URL**: [Kaggle S5E12 Overview](https://www.kaggle.com/competitions/playground-series-s5e12/overview)
+- **Solution Notebook**: [Diabetes Prediction Challenge: Ensemble](https://www.kaggle.com/code/gsdeepakkumar/diabetes-prediction-challenge-ensemble)
 - **Problem Statement**: The goal is to predict the probability of a patient being diagnosed with diabetes (`diagnosed_diabetes`) based on health indicators, lifestyle factors, and demographic data.
 - **Evaluation Metric**: Area Under the ROC Curve (**ROC-AUC**).
 
